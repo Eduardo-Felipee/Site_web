@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fazop {
+    color: white !important;
+}
+
+.fazol {
+    color: green !important;
+}
+
+.fazor {
+color: red !important;
+
+}
+
+
+
+.bg-dark-blue {
+    background-color: #00008B;
+}
